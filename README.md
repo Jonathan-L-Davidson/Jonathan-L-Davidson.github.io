@@ -1,5 +1,5 @@
 # My Portfolio
-This is the code for my portfolio online, based from a online template from TEMPLATE and I have modified it for my website. The portfolio goes over about who I am and what I do. You can find out more about me [here](www.jonathan-davidson.co.uk).
+This is the code for my portfolio online, based from a online template from TEMPLATE and I have modified it for my website. The portfolio goes over about who I am and what I do. You can find out more about me [here](https://www.jonathan-davidson.co.uk).
 
 ## Authors
 * **Jonathan Davidson** - *Everything* - [Jonathan-L-Davidson](https://github.com/Jonathan-L-Davidson)
